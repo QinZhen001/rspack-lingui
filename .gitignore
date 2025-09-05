@@ -1,0 +1,26 @@
+./node_modules
+*.wasm
+.cache
+DS_Store
+.DS_Store
+output*/**
+.idea
+.history
+coverage
+yarn-error.log
+precheck-result.json
+package-lock.json
+.vscode
+# project
+bundle_info.json
+node_modules
+dist
+minigame-v*
+output.*.zip
+outputTmetown
+.kg.tapd.json
+.cursorrules
+~/
+.vscode/
+.VSCodeCounter
+.claude
