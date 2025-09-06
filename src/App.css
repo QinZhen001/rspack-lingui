@@ -24,3 +24,12 @@ body {
   font-weight: 400;
   opacity: 0.5;
 }
+
+.item {
+  margin-top: 30px;
+  margin-bottom: 5px;
+  height: 30px;
+  line-height: 30px;
+  background: #101725;
+  color: aliceblue;
+}

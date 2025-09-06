@@ -6,6 +6,8 @@
     "noEmit": true,
     "skipLibCheck": true,
     "useDefineForClassFields": true,
+    "isolatedModules": true,
+
 
     /* modules */
     "module": "ESNext",
